@@ -1,0 +1,18 @@
+.menu{
+    background-color: aliceblue;
+    height: 100px;
+    width: 500px;
+    display: flex;
+}
+.button{
+    background-color: rgb(55, 59, 85);
+    height: 100px;
+    width: 500px;
+    color:azure;
+}
+html{
+    background-color: rgb(88, 74, 102);
+}
+.titulo2{
+    color: azure;
+}
